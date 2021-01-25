@@ -1,10 +1,15 @@
 BTS 멤버를 사진으로 예측하는 프로그램
 ----------
+##### (뷔, 정국, 지민만 가능합니다)
 ##### (예측은 CNN 으로 설계된 모델로 하고, 프로그램은 C# window form 으로 제작함.)
 
-아래 링크에서 zip 파일을 다운 받은 후, 압축을 풀고, Release 폴더 안에 PRED-BTS.exe 파일을 실행하면 됩니다.
-https://drive.google.com/file/d/1vBzW0SD81_ER0yWpIYafeP0DElPDQz2P/view?usp=sharing
+설치 방법
+----------
+#### 아래 링크에서 zip 파일을 다운 받은 후, 압축을 풀고, Release 폴더 안에 PRED-BTS.exe 파일을 실행하면 됩니다.
+#### https://drive.google.com/file/d/1vBzW0SD81_ER0yWpIYafeP0DElPDQz2P/view?usp=sharing
 
+실행방법
+-------
 #### 1. 실행화면은 아래와 같습니다.  
 ![실행화면](https://user-images.githubusercontent.com/66504341/105654697-e5cdae00-5f01-11eb-8c0d-72c54d703855.JPG)
 
